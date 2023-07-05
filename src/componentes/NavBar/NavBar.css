@@ -1,0 +1,12 @@
+header{
+    margin: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: goldenrod;
+}
+
+li{
+    display: inline-block;
+    margin: 1rem;
+}
